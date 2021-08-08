@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @fostemi
-- 👀 I’m interested in blockchain technologies, finance projects with python, and environmental research.  
-- 🌱 I’m currently learning python, solidity, javascript, and c.  I want to find applications of these languages in my interests.  
-- 💞️ I’m looking to collaborate on any blockchain application.  
-- 📫 How to reach me michael.isaac.foster@gmail.com
+- 👀 I’m interested in machine learning algorithms, project design, finance projects with python, and environmental research.  
+- 🌱 I’m currently learning python, java, and c.  I want to find projects of these languages in my interests.  
+- 💞️ I’m looking to collaborate on my chess project. 
+- 📫 How to reach me fostemii@iu.edu
 
 <!---
 fostemi/fostemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
