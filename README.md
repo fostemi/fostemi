@@ -1,5 +1,5 @@
 ## Hello!
-[GDSC Lead @ IU](https://gdsc.community.dev/indiana-university/)
+[GDSC Lead @ IU](https://gdsc.community.dev/indiana-university/) [My Favorite Project](https://github.iu.edu/fostemii/sp20-id-0008)
 - 👋 Hi, I’m @fostemi
 - 👀 I’m interested in machine learning algorithms, project design, finance projects with python, and environmental research.  
 - 🌱 I’m currently learning python, java, and c.  I want to find projects of these languages in my interests.  
