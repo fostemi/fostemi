@@ -1,5 +1,5 @@
 ## Hello!
-[My Favorite Project](https://github.iu.edu/fostemii/sp20-id-0008) | [Texas Hold'em App](https://github.com/Ape-Dreams/card-dead) | [Project X]()| [LinkedIn](https://www.linkedin.com/in/michael-foster-644892182/) | [GDSC Lead Alumni @ IU](https://gdsc.community.dev/indiana-university/)
+[My Favorite Project](https://github.iu.edu/fostemii/sp20-id-0008) | [Texas Hold'em App](https://github.com/Ape-Dreams/card-dead) | [Common Control Plane]() | [LinkedIn](https://www.linkedin.com/in/michael-foster-644892182/) | [GDSC Lead Alumni @ IU](https://gdsc.community.dev/indiana-university/)
 - 👋 Hi, I’m @fostemi
 - 👀 I’m interested in machine learning algorithms, project design, finance projects with python, and environmental research. My new goal is to deploy applications as efficiently as possible. I want to automate all of the toil in my life!
 - 🌱 I’m currently learning react, golang, and cloud computing.  I am currently working on a project that will be an internal developer platform that will automate creation tickets of infrastructure for deploying applications.
