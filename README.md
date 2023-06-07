@@ -6,6 +6,8 @@
 - 💞️ I’m looking to collaborate on applying different machine learning algorithms to different financial markets. I am currently working on a texas hold'em react application that interacts with data collected from users to return valuable data to the user.
 - 📫 How to reach me: mifoster1723@gmail.com
 
+![Fostemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fostemi&theme=onedark&show_icons=true)
+
 ### Connect with me  
 <div align="center">
 <a href="https://www.linkedin.com/in/michael-foster-644892182/" target="_blank">
