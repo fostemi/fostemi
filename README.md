@@ -1,4 +1,3 @@
-## Hello!
 [My Favorite Project](https://github.iu.edu/fostemii/sp20-id-0008) | [Texas Hold'em App](https://github.com/Ape-Dreams/card-dead) | [Common Control Plane]() | [LinkedIn](https://www.linkedin.com/in/michael-foster-644892182/) | [GDSC Lead Alumni @ IU](https://gdsc.community.dev/indiana-university/)
 - 👋 Hi, I’m @fostemi and I love to tinker
 - 👀 I want to automate all of the toil in my life! I'm currently training for an Iron Man 70.3!
