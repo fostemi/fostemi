@@ -1,5 +1,5 @@
-[My Favorite Project](https://github.iu.edu/fostemii/sp20-id-0008) | [Texas Hold'em App](https://github.com/Ape-Dreams/card-dead) | [Common Control Plane]() | [LinkedIn](https://www.linkedin.com/in/michael-foster-644892182/) | [GDSC Lead Alumni @ IU](https://gdsc.community.dev/indiana-university/)
-- 👋 Hi, I’m @fostemi and I love to tinker
+[NPM Registry](https://www.npmjs.com/~fostemi) | [Texas Hold'em App](https://github.com/Ape-Dreams/card-dead) | [Common Control Plane]() | [LinkedIn](https://www.linkedin.com/in/michael-foster-644892182/) | [GDSC Lead Alumni @ IU](https://gdsc.community.dev/indiana-university/)
+- 👋 Hi, I’m @fostemi, I'm a vim enthusiast that loves to tinker. Everything should be open source so I can contribute :)
 - 👀 I want to automate all of the toil in my life! I'm currently training for an Iron Man 70.3!
 - 🌱 I want to get rid of the barrier between an application idea and a functioning production application. I am currently working on a project that will be an internal developer platform that will automate creation of infrastructure for deploying applications. I have a texas hold'em application that interacts with data collected from users to return valuable data to the user.
 
