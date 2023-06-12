@@ -9,7 +9,7 @@
 ### Interests & Learning
 Kubernetes | React | GoLang | Crossplane | ArgoCD | Internal Developer Platforms
 
-![Fostemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fosterm-mw&theme=nightowl&show_icons=true)
+![Fostemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fostemi&theme=nightowl&show_icons=true)
 
 ### Connect with me  
 <div align="center">
