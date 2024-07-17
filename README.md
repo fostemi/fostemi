@@ -4,10 +4,10 @@
 - 🌱 I want to get rid of the barrier between an application idea and a functioning production application. I am currently working on a project that will be an internal developer platform that will automate creation of infrastructure for deploying applications. I have a texas hold'em application that interacts with data collected from users to return valuable data to the user.
 
 ### Certifications
-[Google Cloud Associate Cloud Engineer](https://www.credential.net/bf9d58e2-cf7f-4946-b778-759f5f167e59?key=fa703b41c76d275402f81903506c1d999d11e717474fda204af5bd7d5a60cbd1) | [Certified Kubernetes Administrator](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8ef0ef3a-ffc6-43cb-9324-93d4dd97b0e0-michael-foster-e899d310-a533-4367-a51c-d074c3a9e81a-certificate.pdf) | [Hashicorp Terraform Associate](https://www.credly.com/badges/a9c521fa-f45f-42b2-a018-a7cc300aece7/linked_in_profile)
+[Google Cloud Associate Cloud Engineer](https://www.credential.net/bf9d58e2-cf7f-4946-b778-759f5f167e59?key=fa703b41c76d275402f81903506c1d999d11e717474fda204af5bd7d5a60cbd1) | [Certified Kubernetes Administrator](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8ef0ef3a-ffc6-43cb-9324-93d4dd97b0e0-michael-foster-e899d310-a533-4367-a51c-d074c3a9e81a-certificate.pdf) | [Hashicorp Terraform Associate](https://www.credly.com/badges/a9c521fa-f45f-42b2-a018-a7cc300aece7/linked_in_profile) | [Google Cloud Professional DevOps Engineer](https://www.credly.com/badges/e81c5132-55e0-41e8-b987-76861272c8c9)
 
 ### Interests & Learning
-Kubernetes | React | GoLang | Crossplane | ArgoCD | Internal Developer Platforms
+Kubernetes | React | GoLang | Crossplane | ArgoCD | Internal Developer Platforms | Python
 
 ![Fostemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fostemi&theme=nightowl&show_icons=true)
 
